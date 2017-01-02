@@ -1,0 +1,38 @@
+.card{
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 300px;
+    box-shadow: 5px 5px 2px 0 #eee;
+    font-family: Georgia;
+    font-size: 15px;
+    background-color: rgba(43,90,255,.1);
+    border-radius: 5px;
+}
+
+ul{
+    list-style: none;
+    padding: 0px;
+}
+
+span{
+    font-weight: bold;
+}
+
+.image{
+    position: relative;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.description{
+    position: relative;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: rgba(45,45,255,.1);
+}
+
+.italics{
+    font-style: italic;
+}
